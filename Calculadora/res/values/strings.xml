@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Calculadora</string>
+    <string name="calculadora_maint_textview_pantalla">0</string>
+	<string name="calculadora_main_btn_0">0</string>
+	<string name="calculadora_main_btn_1">1</string>
+	<string name="calculadora_main_btn_2">2</string>
+	<string name="calculadora_main_btn_3">3</string>
+	<string name="calculadora_main_btn_4">4</string>
+	<string name="calculadora_main_btn_5">5</string>
+	<string name="calculadora_main_btn_6">6</string>
+	<string name="calculadora_main_btn_7">7</string>
+	<string name="calculadora_main_btn_8">8</string>
+	<string name="calculadora_main_btn_9">9</string>
+	<string name="calculadora_main_btn_limpiar">C</string>
+	<string name="calculadora_main_btn_entre">/</string>
+	<string name="calculadora_main_btn_por">*</string>
+	<string name="calculadora_main_btn_menos">-</string>
+	<string name="calculadora_main_btn_mas">+</string>
+	<string name="calculadora_main_btn_igual">=</string>
+</resources>
